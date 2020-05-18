@@ -1,0 +1,19 @@
+{
+  "name": "zuno_blockchain",
+  "version": "1.0.0",
+  "description": "A Blockchain App in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enac87/zuno_blockchain.git"
+  },
+  "author": "EMAGA NGAMO ALAIN CESAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enac87/zuno_blockchain/issues"
+  },
+  "homepage": "https://github.com/enac87/zuno_blockchain#readme"
+}
